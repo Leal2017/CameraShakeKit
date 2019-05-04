@@ -32,4 +32,8 @@ Unity的可扩展，轻量级基于噪音的相机抖动管理器。
 ![Alt text](http://i.imgur.com/0RRelTb.gif "Unity Editor GIF")
 
 
+##感谢
+###原先作者github:
+https://github.com/ewersp/CameraShake
+
 ---
